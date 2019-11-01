@@ -105,9 +105,6 @@ https://www.journaldev.com/2281/struts2-token-interceptor-example
 
 websecurity owasp
 https://www.owasp.org/index.php/OWASP_Java_Project_Archive_(8.2010)
-
-
-
 http://www.mkyong.com/struts/configure-a-welcome-page-in-struts/
 http://www.allinterview.com/showanswers/64569/life-cycle-of-struts.html
 http://www.techfaq360.com/tutorial/struts_flow.jsp
